@@ -1,23 +1,32 @@
-# Hi there 👋, My name is Cem Kaan KOSALI
-
 ![Header](./github-header-image(1).png)
 
+# Hi there 👋, My name is Cem Kaan KOSALI
+
 Versatile full stack developer with 20 years of experience in multi-paradigm programming.
-🧙‍♂️ Preferred Tools
-• FrontEnd : Typescript / Vue / Nuxt
-• Backend : Node.js / Deno / PHP
-• Headless Cms systems: Strapi / Directus
-• Cloud set up and configuration : AWS / GoogleCloud / Docker
+
+## 🧙‍♂️ Preferred Tools
+
+* FrontEnd : **Typescript / Vue / Nuxt**
+* Backend : **Node.js / Deno / PHP**
+* Headless Cms systems : **Strapi / Directus**
+* Cloud set up and configuration : **AWS / GoogleCloud / Docker**
+
 
 🧭 Developing FULL STACK to help entrepreneurs realize their software ideas.
+
 Used Following Technologies in more than 16 Years of Experience
+
+
 stackshare.io/kaanguru/cem-kaan
 
+
 ## 💫 Liitle Bit More About Me
+
 <p>💬 Ask me about Dart, Javascript, Typescript</p>
-<p>All of my projects are available at <a href="www.cemkaan.com">Personal Site</a></p>
+<p>All of my projects are available at <a href="www.cemkaan.com">My Personal Site</a></p>
 
 ## 💻 Skills
+
 <p>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
@@ -39,6 +48,7 @@ stackshare.io/kaanguru/cem-kaan
 </p>
 
 ## 👥 Connect With Me
+
 <p>
 <a href="https://linkedin.com/in/cemkaan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/CemKaanGuru"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
@@ -48,7 +58,9 @@ stackshare.io/kaanguru/cem-kaan
 </p>
 
 ## 🌟 Github Badges
+
 <p>
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" height="24px">
 </p>
 
 ## 🏆 GitHub Trophies
@@ -57,3 +69,15 @@ stackshare.io/kaanguru/cem-kaan
 </p>
 
 ## 📊 Github Status
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=kaanguru"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=kaanguru&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanguru&layout=compact"><p>
+
+<p><img src="https://metrics.lecoq.io/kaanguru"><p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kaanguru"><p>
+
+<p><img src="https://visitcount.itsvg.in/api?id=kaanguru&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
