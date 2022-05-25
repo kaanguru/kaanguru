@@ -1,5 +1,7 @@
 # Hi there 👋, My name is Cem Kaan KOSALI
 
+![Header](./github-header-image(1).png)
+
 Versatile full stack developer with 20 years of experience in multi-paradigm programming.
 🧙‍♂️ Preferred Tools
 • FrontEnd : Typescript / Vue / Nuxt
