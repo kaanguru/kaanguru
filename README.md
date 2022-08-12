@@ -14,8 +14,7 @@ Versatile full stack developer with 20 years of experience in multi-paradigm pro
 
 🧭 Developing FULL STACK to help entrepreneurs realize their software ideas.
 
-Used Following Technologies in more than 16 Years of Experience
-
+Used [Following Technologies](https://stackshare.io/kaanguru/cem-kaan) in more than 16 Years of Experience
 
 stackshare.io/kaanguru/cem-kaan
 
@@ -48,6 +47,8 @@ stackshare.io/kaanguru/cem-kaan
 </p>
 
 ## 👥 Connect With Me
+
+Check out my [Upwork Profile](https://www.upwork.com/freelancers/~011199a69e02eea157)
 
 <p>
 <a href="https://linkedin.com/in/cemkaan"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
